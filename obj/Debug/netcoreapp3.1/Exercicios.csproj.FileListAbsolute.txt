@@ -11,3 +11,16 @@ C:\Teste\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.CoreCompileInputs.
 C:\Teste\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.dll
 C:\Teste\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.pdb
 C:\Teste\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.genruntimeconfig.cache
+C:\Desenvolvimento\CSharp\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.exe
+C:\Desenvolvimento\CSharp\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.deps.json
+C:\Desenvolvimento\CSharp\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.json
+C:\Desenvolvimento\CSharp\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.runtimeconfig.dev.json
+C:\Desenvolvimento\CSharp\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.dll
+C:\Desenvolvimento\CSharp\Exercicios\bin\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Desenvolvimento\CSharp\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csprojAssemblyReference.cache
+C:\Desenvolvimento\CSharp\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfoInputs.cache
+C:\Desenvolvimento\CSharp\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.AssemblyInfo.cs
+C:\Desenvolvimento\CSharp\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\CSharp\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.dll
+C:\Desenvolvimento\CSharp\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.pdb
+C:\Desenvolvimento\CSharp\Exercicios\obj\Debug\netcoreapp3.1\Exercicios.genruntimeconfig.cache

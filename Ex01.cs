@@ -10,11 +10,11 @@ namespace Exercicios
             Console.Clear();
 
             Console.WriteLine("Informe a quantidade mínima do produto: ");
-            int qmin = int.Parse(Console.ReadLine());
+            decimal qmin = int.Parse(Console.ReadLine());
             Console.WriteLine("Informe a quantidade máxima do produto: ");
-            int qmax = int.Parse(Console.ReadLine());
-            float media = (qmin + qmax) / 2;
-            Console.WriteLine($"O estoque médio do produto é {media}");
+            decimal qmax = int.Parse(Console.ReadLine());
+            var media = Math.Floor((qmin + qmax) / 2);
+            Console.WriteLine(value: $"O estoque médio do produto é {media}");
 
 
             do
