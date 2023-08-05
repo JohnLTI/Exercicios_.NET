@@ -1,5 +1,6 @@
 using System;
 using System.Security.Cryptography;
+using System.Threading;
 
 namespace Exercicios
 {
@@ -9,13 +10,17 @@ namespace Exercicios
         {
             Console.Clear();
 
+
+            Console.WriteLine("Exercício 01");
+            Console.WriteLine("");
+            Thread.Sleep(2000);
+
             Console.WriteLine("Informe a quantidade mínima do produto: ");
             decimal qmin = int.Parse(Console.ReadLine());
             Console.WriteLine("Informe a quantidade máxima do produto: ");
             decimal qmax = int.Parse(Console.ReadLine());
             var media = Math.Floor((qmin + qmax) / 2);
             Console.WriteLine(value: $"O estoque médio do produto é {media}");
-
 
             do
             {

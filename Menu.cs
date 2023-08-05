@@ -13,6 +13,7 @@ namespace Exercicios
             Console.WriteLine("Menu de Exercícios");
             Console.WriteLine("");
             Console.WriteLine("1 - Calculo de Média");
+            Console.WriteLine("2 - Conversão Dólar para Real");
             Console.WriteLine("0 - Sair");
             Console.WriteLine("--------------------");
 
@@ -30,6 +31,7 @@ namespace Exercicios
                     }
 
                 case 1: Ex01.Calc(); break;
+                case 2: Ex02.Calc(); break;
 
                 default: Menu.View(); break;
             }
